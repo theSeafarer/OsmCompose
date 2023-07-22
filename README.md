@@ -90,4 +90,4 @@ OsmMap(
 }
 ```
 And the resulting map on the screen:
-![Screenshot for the example code provided][screenshots/s0.jpg]
+![Screenshot for the example code provided](screenshots/s0.jpg)
